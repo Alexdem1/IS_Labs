@@ -1,1 +1,1 @@
-# IS_Labs
+# Here would be stored Intellligent Systems Labs.
